@@ -155,15 +155,3 @@ Some states convert their budget into revenue far more efficiently than others �
 ### 5. Demographics Alone Don't Drive Sales
 Population, income, and household counts show weak correlation with revenue, suggesting sales performance is driven more by product mix, pricing, and channel strategy than by regional demographics.
 
----
-
-## 👤 Author
-
-**Data Analytics Portfolio Project**
-Built with professional-grade data analysis methodologies suitable for Data Analyst, Business Analyst, and BI Analyst roles.
-
----
-
-## 📄 License
-
-This project is for educational and portfolio purposes.
